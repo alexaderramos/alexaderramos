@@ -7,7 +7,7 @@ Soy un Full Stack con más de 5 años de experiencia desarrollando aplicaciones 
 
 ### Habilidades técnicas 🛠️
 - Lenguajes de programación: Javascript, Java, PHP, Python y Golang.
-- Frameworks y tecnologías web y móviles: VueJS, Laravel, Spring, Django, entre otros.
+- Frameworks y tecnologías web y móviles: VueJS, Angular, Laravel, Spring, Django, entre otros.
 - Bases de datos relacionales y no relacionales.
 
 ### Habilidades personales 🧠
