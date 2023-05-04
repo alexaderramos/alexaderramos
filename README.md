@@ -1,16 +1,17 @@
-### Hi there 👋
+# 👨‍💻 Alexander Ramos
 
-<!--
-**alexaderramos/alexaderramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Engineer 🚀
 
-Here are some ideas to get you started:
+### Acerca de mí 👨‍💼
+Soy un Full Stack con más de 5 años de experiencia desarrollando aplicaciones web. Mi enfoque está en la resolución de problemas, la mejora de procesos y la creación de valor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Habilidades técnicas 🛠️
+- Lenguajes de programación: Javascript, Java, PHP, Python y Golang.
+- Frameworks y tecnologías web y móviles: VueJS, Laravel, Spring, Django, entre otros.
+- Bases de datos relacionales y no relacionales.
+
+### Habilidades personales 🧠
+- Orientado a la resolución de problemas.
+- Capacidad de innovación.
+- Organización y liderazgo.
+- Autoaprendizaje.
